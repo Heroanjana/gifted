@@ -5,7 +5,7 @@ require("dotenv").config();
 const config = {
   SESSION_ID: process.env.SESSION_ID || "Gifted~3pMV7d6R",
   HEROKU_API_TOKEN: process.env.HEROKU_API_TOKEN || "HRKU-0a1fe665-8a35-42e8-b7ad-761f25ffe195",
-  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
+  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "Hutch pko",
   KOYEB_API_TOKEN: process.env.KOYEB_API_TOKEN || "",
   KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || "",
   DEPLOYMENT_PLATFORM: process.env.DEPLOYMENT_PLATFORM || "",
